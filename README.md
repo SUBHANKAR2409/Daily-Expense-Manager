@@ -11,6 +11,7 @@ It allows users to add, view, and manage their daily expenses, with optional GST
 - Auto total with GST calculator
 - Stores data using file handling
 - Perfect for Class 12 CS/IT project
+- RUNS ON EXCEL 
 
 ---
 
